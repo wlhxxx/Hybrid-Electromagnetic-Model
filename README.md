@@ -1,1 +1,1 @@
-# TL-DNN-model
+#It includes discrete sensitivity analysis and sample selection. The selected samples correspond to FEA0.05, FEA0.1, and FEA0.2 data sets in the data branch, which are used for TL-DNN-picking model training
